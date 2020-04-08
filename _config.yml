@@ -1,18 +1,19 @@
 # Site settings
 title: Jekyll-Uno
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+url: 'https://www.isavalladolid.com'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Isabel Valladolid'
+  email: isavalladolidd@icloud.com
+  twitter_username: isavalladolidd  
+  facebook_username: Isabel Valladolid
+  github_username:  isavalladolidd
+  linkedin_username:  isavalladolidd
+  instagram: isavalladolidd
 
 defaults:
   -
