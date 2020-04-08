@@ -1,8 +1,8 @@
 # Site settings
-title: My Weblog
-description: 'Isabel Valladolid Weblog'
-url: 'https://isavalladolid.com'
-baseurl: '/'
+title: Isabel Valladolid
+description: 'Weblog'
+url: ''
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -41,4 +41,4 @@ kramdown:
   hard_wrap: false
 
 plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png','_site']
